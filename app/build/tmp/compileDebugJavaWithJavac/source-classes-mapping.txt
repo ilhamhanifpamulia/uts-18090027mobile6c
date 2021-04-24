@@ -1,0 +1,2 @@
+ipam/uts18090027/InaSnack/BuildConfig.java
+ ipam.uts18090027.InaSnack.BuildConfig
